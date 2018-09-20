@@ -1,5 +1,8 @@
 _repo: Memoires-touchant-la-vie-et-les-ecrits-de-Marie-de-Rabutin-Chantal-66_52929
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52929-h/images/cover.jpg
 creator:
   author:
     agent_name: Aubenas, Joseph-Adolphe
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '47124'
     url: http://www.gutenberg.org/2009/agents/47124
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52929#Memoires-touchant-la-vie-et-les-ecrits-de-Marie-de-Rabutin-Chantal-66
 gutenberg_issued: '2016-08-29'
 gutenberg_type: Text
 identifiers:
